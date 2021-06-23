@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TODOApp</string>
+    <string-array name="kategoria">
+        <item>PRACA</item>
+        <item>ZAKUPY</item>
+        <item>INNE</item>
+    </string-array>
+    <string name="nazwa">NAZWA</string>
+    <string name="data">KALENDARZ -------></string>
+    <string name="usu_zadania">usuń zadania</string>
+</resources>
